@@ -1,0 +1,31 @@
+body{
+  font-family:Arial;
+  background:#001e4a;
+  color:white;
+}
+.welcome{
+  color:#56f921;
+  font-size:27px;
+}
+.tol span{
+  
+  color:yellow;
+}
+.p{
+  color:white;
+}
+.info{
+  border:2px solid red;
+  padding:20px;
+}
+h1{
+  color:white;
+}
+b{
+  color:green;
+  
+}
+h6{
+  border:1px solid green;
+  
+}
